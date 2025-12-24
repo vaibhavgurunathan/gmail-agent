@@ -1,0 +1,11 @@
+torch
+scikit-learn
+numpy
+chromadb
+sentence-transformers
+google-cloud-pubsub
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+google-genai
+imapclient
