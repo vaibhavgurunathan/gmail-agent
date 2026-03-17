@@ -29,7 +29,7 @@ An AI-powered email assistant that automatically processes incoming emails, summ
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/vaibhavgurunathan/email_agent.git
+   git clone https://github.com/vaibhavgurunathan/gmail-agent
    cd email_agent
    ```
 
